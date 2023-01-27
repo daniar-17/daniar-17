@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Daniar Nur Amin 👋
+
+![Daniar's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniar-17&show_icons=true&theme=radical)
 
 <!--
 **daniar-17/daniar-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
