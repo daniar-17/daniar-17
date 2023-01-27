@@ -5,6 +5,23 @@
 <h2>💼 Career</h2>
 Currently working in SSC(Shared Service Center) IT Division as a Software Developer at <i>Code.Id</i>
 
+<h2>🔍 Currently Learning</h2>
+<b>
+<ul>
+  <li>Learning Backend with Golang and NodeJs</li>
+  <li>Learning FrontEnd with React.js</li>
+  <li>Learning Basic DevOps and AWS in Dicoding</li>
+  <li>Self Improvment</li>
+</ul>
+<b>
+  
+<h2>🚀 Connect with Me</h2>
+  <ul>
+  <li>LinkedIn : <a href="https://www.linkedin.com/in/daniar-nur-amin-164282197/">Daniar Nur Amin</a></li>
+  <li>Email : <a href="">daniarnuramin1@gmail.com</a></li>
+  <li>Instagram : <a href="https://www.instagram.com/daniar_nur_amin/">@daniar_nur_amin</a></li>
+</ul>
+
 <h2>💻 Languages and Tools</h2>
 <img src="https://skillicons.dev/icons?i=laravel,dotnet,nodejs,cs,javascript,php,html,css,mysql,jquery" />
 
