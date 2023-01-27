@@ -1,6 +1,13 @@
-### Hi, I'm Daniar Nur Amin 👋
+![Daniar's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniar-17&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniar-17&layout=compact)](https://github.com/daniar-17/github-readme-stats)<br><br>
+👋 Hi, My full name Daniar Nur Amin, you can call me "Daniar". I'm Software Developer who specialized in <b><i>Fullstack Developer</i></b> from Indonesia
 
-![Daniar's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniar-17&show_icons=true&theme=radical)
+<h2>💼 Career</h2>
+Currently working in SSC(Shared Service Center) IT Division as a Software Developer at <i>Code.Id</i>
+
+<h2>💻 Languages and Tools</h2>
+<img src="https://skillicons.dev/icons?i=laravel,dotnet,nodejs,cs,javascript,php,html,css,mysql,jquery" />
+
 
 <!--
 **daniar-17/daniar-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
