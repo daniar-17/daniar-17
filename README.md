@@ -1,5 +1,5 @@
-![Daniar's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniar-17&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniar-17&layout=compact)](https://github.com/daniar-17/github-readme-stats)<br><br>
+![Daniar's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniar-17&show_icons=true&theme=transparent&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniar-17&layout=compact&langs_count=8&hide_border=true)](https://github.com/daniar-17/github-readme-stats)<br><br>
 👋 Hi, My full name Daniar Nur Amin, you can call me "Daniar". I'm Software Developer who specialized in <b><i>Fullstack Developer</i></b> from Indonesia. I have experience in developing applications, especially Web Developers, I'm using programming languages such as C#, PHP and JavaScript. And for frameworks that I use such as ASP.NET, Net Framework and Laravel. And databases that are frequently used such as Microsoft Sql Server and MySQL.
 
 
