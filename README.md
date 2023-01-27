@@ -1,19 +1,19 @@
 ![Daniar's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniar-17&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniar-17&layout=compact)](https://github.com/daniar-17/github-readme-stats)<br><br>
-👋 Hi, My full name Daniar Nur Amin, you can call me "Daniar". I'm Software Developer who specialized in <b><i>Fullstack Developer</i></b> from Indonesia
+👋 Hi, My full name Daniar Nur Amin, you can call me "Daniar". I'm Software Developer who specialized in <b><i>Fullstack Developer</i></b> from Indonesia. I have experience in developing applications, especially Web Developers, I'm using programming languages such as C#, PHP and JavaScript. And for frameworks that I use such as ASP.NET, Net Framework and Laravel. And databases that are frequently used such as Microsoft Sql Server and MySQL.
+
 
 <h2>💼 Career</h2>
-Currently working in SSC(Shared Service Center) IT Division as a Software Developer at <i>Code.Id</i>
+Currently working in SSC(Shared Service Center) IT Division as a Software Developer at <i>Code.Id</i>.
 
 <h2>🔍 Currently Learning</h2>
-<b>
 <ul>
   <li>Learning Backend with Golang and NodeJs</li>
   <li>Learning FrontEnd with React.js</li>
   <li>Learning Basic DevOps and AWS in Dicoding</li>
   <li>Self Improvment</li>
 </ul>
-<b>
+
   
 <h2>🚀 Connect with Me</h2>
   <ul>
