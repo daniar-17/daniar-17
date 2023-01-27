@@ -23,7 +23,7 @@ Currently working in SSC(Shared Service Center) IT Division as a Software Develo
 </ul>
 
 <h2>💻 Languages and Tools</h2>
-<img src="https://skillicons.dev/icons?i=laravel,dotnet,nodejs,cs,javascript,php,html,css,mysql,jquery" />
+<img src="https://skillicons.dev/icons?i=vscode,gti,laravel,dotnet,nodejs,cs,javascript,php,html,css,mysql,jquery" />
 
 
 <!--
