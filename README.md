@@ -11,7 +11,7 @@ Currently working in SSC(Shared Service Center) IT Division as a Software Develo
   <li>Learning Backend with Golang and NodeJs</li>
   <li>Learning FrontEnd with React.js</li>
   <li>Learning Basic DevOps and AWS in Dicoding</li>
-  <li>Self Improvment</li>
+  <li>Readings Books and Self Improvment</li>
 </ul>
 
   
