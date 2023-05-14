@@ -17,7 +17,7 @@ Currently working in SSC(Shared Service Center) IT Division as a Software Develo
   
 <h2>🚀 Connect with Me</h2>
   <ul>
-  <li>LinkedIn : <a href="https://www.linkedin.com/in/daniar-nur-amin-164282197/">Daniar Nur Amin</a></li>
+  <li>LinkedIn : <a href="https://www.linkedin.com/in/daniar-nur-amin/">Daniar Nur Amin</a></li>
   <li>Email : <a href="">daniarnuramin1@gmail.com</a></li>
   <li>Instagram : <a href="https://www.instagram.com/daniar_nur_amin/">@daniar_nur_amin</a></li>
 </ul>
