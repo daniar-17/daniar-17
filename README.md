@@ -4,7 +4,7 @@
 
 
 <h2>💼 Career</h2>
-Currently working in SSC(Shared Service Center) IT Division as a Software Developer at <i>Code.Id</i>.
+Currently working in ITE Department as a Information Technology Specialist at <i>PT. Prakarsa Alam Segar</i>.
 
 <h2>🔍 Currently Learning</h2>
 <ul>
