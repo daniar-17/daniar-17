@@ -4,7 +4,7 @@
 
 
 <h2>💼 Career</h2>
-Currently working in ITE Department as a Information Technology Specialist at <i>PT. Prakarsa Alam Segar</i>.
+Currently working in ITE Department as a Information Technology Programmer at <i>PT. Prakarsa Alam Segar</i>.
 
 <h2>🔍 Currently Learning</h2>
 <ul>
